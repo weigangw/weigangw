@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I’m Weigang Wang
+
+I’m a developer interested in AI, robotics, and networking.
+
+🌱 Currently studying Robotics at the National University of Singapore.
+
+📫 Email: weigangwang@u.nus.edu / weigangw@foxmail.com
 
 <!--
 **weigangw/weigangw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
