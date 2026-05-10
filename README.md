@@ -2,12 +2,12 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <img src="/metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%">
+        <img src="/metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%" height="360">
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <img src="/metrics.languages-topics.svg" alt="Languages and starred topics" width="100%">
+        <img src="/metrics.languages-topics.svg" alt="Languages and starred topics" width="100%" height="360">
       </picture>
     </td>
   </tr>
