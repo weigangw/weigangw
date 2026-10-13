@@ -123,8 +123,8 @@
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
                             <div class="label" title="A framework is a reusable set of libraries or classes in software.">framework</div>
                             <div class="label" title="Software with source code available to inspect, modify, and enhance.">open source</div>
-                            <div class="label" title="Machine learning models trained on vast amounts of text data to understand and generate human-like language.">large language model</div>
                             <div class="label" title="">ai-agents</div>
+                            <div class="label" title="Machine learning models trained on vast amounts of text data to understand and generate human-like language.">large language model</div>
                             <div class="label" title="">networking</div>
                             <div class="label" title="CUDA is a parallel computing platform and programming model for NVIDIA GPUs.">cuda</div>
                             <div class="label" title="A transformer is a deep learning architecture based on self-attention mechanisms, designed to process sequential data in parallel.">transformer</div>
